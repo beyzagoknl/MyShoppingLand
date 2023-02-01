@@ -152,3 +152,42 @@ span {
 .card:hover {
   border: 2px solid gray;
 }
+#team {
+  background-color: #003666;
+  padding: 50px;
+  height: 850px;
+  text-align: center;
+}
+#teamH3 {
+  color: white;
+}
+.right-left {
+  width: 385px;
+  float: left;
+  padding: 50px;
+}
+
+.oval {
+  border-radius: 50%;
+}
+.teamName {
+  color: white;
+  font-size: 25px;
+  margin-bottom: 12px;
+}
+.teamPa {
+  color: #888;
+  font-size: 20px;
+}
+.social {
+  color: white;
+  border: 1px solid white;
+  padding: 10px;
+  width: 50px;
+  border-radius: 5px;
+  margin: 5px 10px;
+}
+
+.social:hover {
+  background-color: #888;
+}
